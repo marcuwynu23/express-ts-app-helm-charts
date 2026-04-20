@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  express-ts-app-helm-charts:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-04-20T22:57:03.9052595+08:00"
+    description: A Helm chart for Kubernetes
+    digest: cd5b33d92c37d7c94b818877cc589dc3752d608e1458b29075871265ee12a483
+    name: express-ts-app-helm-charts
+    type: application
+    urls:
+    - https://marcuwynu23.github.io/express-ts-app-helm-charts/express-ts-app-helm-charts-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-04-20T22:57:03.9042596+08:00"
