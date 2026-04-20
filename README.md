@@ -1,6 +1,6 @@
 # express-ts-app-helm-charts
 
-A Helm chart for deploying a **Express Tyepscript based web application** to Kubernetes.
+A Helm chart for deploying a **Express Typescript based web application** to Kubernetes.
 
 This chart uses a container image hosted on GitHub Container Registry:
 
